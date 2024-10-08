@@ -1,7 +1,7 @@
 #專案說明
 
 在專案的appsettings.json 中，在JWT 中的KEY 宣告自己的KEY種子
-![1](images/1_appsettings_1.png)
+![1](images/1_appsettings_1.png=907x550)
 
 ![2](images/1_appsettings_2.png)
 

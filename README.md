@@ -14,9 +14,6 @@
 **JWT Token** 就是下圖綠色圈起來的文字
 ![6](images/3_response_token.png)
 
-
-![3](images/0_use_postman.png)
-
 ![5](images/3_response_header.png)
 
 ![7](images/4_get_test_and_ok.png)

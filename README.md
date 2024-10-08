@@ -2,7 +2,7 @@
 
 在專案的appsettings.json 中，在JWT 中的KEY 宣告自己的KEY種子
 ![1](images/1_appsettings_1.png?width=907&height=550)
-<img src="images/1_appsettings_1.png"  width="907" height="550">
+<img src="images/1_appsettings_1.png"  style="width:907;height:550">
 ![2](images/1_appsettings_2.png)
 
 ![3](images/0_use_postman.png)

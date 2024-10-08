@@ -14,10 +14,10 @@
 **JWT Token** 就是下圖綠色圈起來的文字
 ![6](images/3_response_token.png)
 
-![5](images/3_response_header.png)
-
+- 接下來，我們要確認**驗證**是否發揮作用。程式裡宣告要訪問 **/secure** 這個路徑是必須經過授權的，於是我們用**GET**訪問 **/secure**。得到**200 OK**.   
 ![7](images/4_get_test_and_ok.png)
 
+- 接下來，我們故意弄亂Token 再重新發送。會得到 **401 unauthorized 錯誤**(未被授權).由此可知，若沒通過認證取得授權，是無法訪問加鎖的頁面的。
 ![8](images/5_use_wrong_token.png)
 
 ![9](images/6_get_401_error.png)
